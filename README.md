@@ -7,4 +7,4 @@ The BMS utilizes a [Beagle-xM](http://beagleboard.org/Products/BeagleBoard-xM) r
 
 The software was written over a period of approximately 10 days during the summer of 2013, and as such may contain errors and is cosidered to be incomplete. It does however demonstate one possible method for implementing a driver to interface with the '6804 under Linux. If I had had more time I would consider moving some of this driver code into a kernel module instead of relying on SPIDEV.
 
-A video demo of my project is available on [youtube here](http://www.youtube.com/watch?v=Ke4MwVpD0xs).
+A video demo of my project is available on [youtube](http://www.youtube.com/watch?v=Ke4MwVpD0xs).
